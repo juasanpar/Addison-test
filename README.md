@@ -89,8 +89,9 @@ The last part I wanted to have a word on is the app.js script. Here, I use the c
 
 For running the applitacion, the steps are:
 
-* Making sure node.js is installed in the system.
+* Making sure node.js and npm are installed in the system.
 * Having Intenet connection in order to perform the API call.
-* In the root folder of the project, running the command 'npm start'.
+* In the root folder of the project, running the command 'npm install'.
+* Run the command 'npm start'.
 * Then, a browser tab will pop-up. If not, the application is running in http://localhost:3000/.
 
